@@ -1,0 +1,20 @@
+{
+  "name": "matching-face-by-animal-types",
+  "version": "1.0.0",
+  "description": "Upload face image to see resembling animal",
+  "main": "scrape-jpg.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jajh90/matching-face-by-animal-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jajh90/matching-face-by-animal-types/issues"
+  },
+  "homepage": "https://github.com/jajh90/matching-face-by-animal-types#readme"
+}
